@@ -1,0 +1,1 @@
+I Create SnapAndStudy AI Chatbot it contains Student login with name and telegrmme id also upload thier study matirial which they have any doubt image and Chatbot explain the image so student clarify iot's doubt.
